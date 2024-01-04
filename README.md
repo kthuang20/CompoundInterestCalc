@@ -22,5 +22,5 @@ This web application was built in Python using the following libraries:
 
 This web application can be run locally by performing the following command in the terminal:
 ```bash
-streamlit run app.py
+streamlit run https://github.com/kthuang20/CompoundInterestCalc/blob/master/interest_calc.py
 ```
