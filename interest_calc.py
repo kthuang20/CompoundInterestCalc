@@ -170,7 +170,7 @@ st.subheader('Total Balance')
 st.plotly_chart(summary_fig)
 
 # show the results at the end of the time period
-st.subheader(f'Final amount after {summary.iloc[-1, 0]} years:')
+st.subheader(f'Final amount at {summary.iloc[-1, 0]}:')
 st.write(f'\u2022 Total contributed: ${summary.iloc[-1, 1]}')
 st.write(f'\u2022 With compound interest: ${summary.iloc[-1, 2]}')
 st.write(f'\u2022 With compound interest, you will have gained ${round(summary.iloc[-1, 2] - summary.iloc[-1, 1], 2)} from passive income')
