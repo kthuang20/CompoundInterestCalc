@@ -2,7 +2,7 @@
 
 The inspiration for this user interactive calculator was based off of https://www.nerdwallet.com/calculator/compound-interest-calculator. 
 
-I wanted to created this calculator because I wanted to learn the how compound interest works rather than simply plugging in the numbers into this website.
+I wanted to create this calculator to learn how compound interest works rather than simply plugging in the numbers into a website.
 
 This web application allows the user to adjust the same parameters as on the website:
 * Initial deposit
