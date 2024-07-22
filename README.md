@@ -20,7 +20,4 @@ This web application was built in Python using the following libraries:
 * pandas
 * plotly
 
-This web application can be run locally by performing the following command in the terminal:
-```bash
-streamlit run https://github.com/kthuang20/CompoundInterestCalc/blob/master/interest_calc.py
-```
+This web application is available to view at: [https://kthuang20-compoundinterestcalc-interest-calc-xlneg3.streamlit.app/](https://kthuang20-compoundinterestcalc-interest-calc-xlneg3.streamlit.app/)
