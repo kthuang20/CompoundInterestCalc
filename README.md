@@ -20,4 +20,4 @@ This web application was built in Python using the following libraries:
 * pandas
 * plotly
 
-This web application is available to view at: [https://kthuang20-compoundinterestcalc-interest-calc-xlneg3.streamlit.app](https://compound-interest-calc.streamlit.app)
+This web application is available to view at: https://compound-interest-calc.streamlit.app
